@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B764E3A5-4AE4-429A-A768-52D1FE953A9B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Restaurant_M_S</RootNamespace>
+    <AssemblyName>Restaurant_M_S</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Area.cs" />
+    <Compile Include="bill_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill_Form.Designer.cs">
+      <DependentUpon>bill_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boys_Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boys_Chart.Designer.cs">
+      <DependentUpon>Boys_Chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs" />
+    <Compile Include="Customer1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer1.Designer.cs">
+      <DependentUpon>Customer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_1.cs" />
+    <Compile Include="Customer_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_2.Designer.cs">
+      <DependentUpon>Customer_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_login.Designer.cs">
+      <DependentUpon>Customer_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Register.Designer.cs">
+      <DependentUpon>Customer_Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="data.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="bill_Form.resx">
+      <DependentUpon>bill_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boys_Chart.resx">
+      <DependentUpon>Boys_Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer1.resx">
+      <DependentUpon>Customer1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_2.resx">
+      <DependentUpon>Customer_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_login.resx">
+      <DependentUpon>Customer_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Register.resx">
+      <DependentUpon>Customer_Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAP_Locations_Walldorf_2012_009.jpg.adapt.1024_600.false.false.false.false.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91789_1491476183_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91714_1491477527_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91745_1491476163_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banana-Split.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91798_1491476187_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91795_1491476186_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91759_1491476171_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91789_1491476183_ma1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91789_1491476183_ma2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91740_1491476160_ma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

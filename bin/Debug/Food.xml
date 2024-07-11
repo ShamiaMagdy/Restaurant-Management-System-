@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFood>
+  <Food>
+    <ID>1</ID>
+    <Name>Tunna Pizza</Name>
+    <Price>35.95</Price>
+  </Food>
+  <Food>
+    <ID>2</ID>
+    <Name>Millano Pizza</Name>
+    <Price>25.50</Price>
+  </Food>
+  <Food>
+    <ID>3</ID>
+    <Name>Pepsi</Name>
+    <Price>9.75</Price>
+  </Food>
+</ArrayOfFood>

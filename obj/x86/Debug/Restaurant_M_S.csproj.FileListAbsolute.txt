@@ -1,0 +1,48 @@
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.exe
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.pdb
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Admin.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_login.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_Register.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Form1.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Properties.Resources.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csproj.GenerateResource.Cache
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.exe
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.pdb
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer1.resources
+C:\Users\ESCA\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_2.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.exe
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.pdb
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer1.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_2.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_login.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_Register.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Properties.Resources.resources
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csproj.GenerateResource.Cache
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.exe
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.pdb
+D:\Second Year\Second Term\File\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csprojResolveAssemblyReference.cache
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.exe
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.pdb
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.exe
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.pdb
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csprojResolveAssemblyReference.cache
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer1.resources
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_2.resources
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_login.resources
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_Register.resources
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Properties.Resources.resources
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csproj.GenerateResource.Cache
+C:\Users\aa\Desktop\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.bill_Form.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.exe
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.pdb
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.exe
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\bin\Debug\Restaurant_M_S.pdb
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csprojResolveAssemblyReference.cache
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.bill_Form.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer1.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_2.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_login.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Customer_Register.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Properties.Resources.resources
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.csproj.GenerateResource.Cache
+D:\Second Year\Second Term\Restaurant_M_S\Restaurant_M_S\obj\x86\Debug\Restaurant_M_S.Boys_Chart.resources
